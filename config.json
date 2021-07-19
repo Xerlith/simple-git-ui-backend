@@ -1,0 +1,7 @@
+{
+    "git_user": "bot",
+    "access_token": "token",
+    "repo_owner": "owner",
+    "repo_name": "repo",
+    "branch_name_template": "bot-submitted"
+}
